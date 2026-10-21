@@ -1,55 +1,78 @@
-# 🔥 Drak24Evil Termux Banner
+# 🔥 Drak24Evil | Termux Banner
 
-A colorful custom startup banner for Termux users, cybersecurity enthusiasts, and ethical hackers.
+<div align="center">
 
-## ✨ Features
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+Drak24Evil;Cybersecurity+%7C+Ethical+Hacking;Customize+Your+Termux+Terminal;We+Hunt+Loops%2C+Not+Humans" alt="Animated typing banner" />
 
-* 🎨 Colorful terminal banner
-* ⚡ Automatic banner script execution
-* 🛠️ Customizable username and text
-* 📱 Android Termux support
+<img src="https://img.shields.io/badge/Platform-Termux-black?style=for-the-badge&logo=linux&logoColor=green" alt="Termux" />
+<img src="https://img.shields.io/badge/Language-Bash-green?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Purpose-Terminal%20Customization-blue?style=for-the-badge" alt="Terminal customization" />
 
-## 📦 Installation
+**A colorful, customizable startup banner for Termux users.**
 
-Open Termux and run these commands one by one:
+</div>
+
+---
+
+## ⚡ Features
+
+* 🎨 Colorful terminal text with ANSI colors
+* 🖥️ Custom hacker-style startup screen
+* ✏️ Edit your name and banner messages
+* 📱 Designed for Android Termux
+* 🚀 Lightweight Bash script
+* 🛠️ Simple installation process
+
+## 📸 Installation
+
+**Step 1 — Update Termux**
 
 ```bash
 pkg update && pkg upgrade -y
-clear
-pkg install git -y && clear
+```
+
+**Step 2 — Install Git**
+
+```bash
+pkg install git -y
+```
+
+**Step 3 — Clone the repository**
+
+```bash
 git clone https://github.com/mrkarthick-cool/Termux-Banner.git
+```
+
+**Step 4 — Enter the folder and run**
+
+```bash
 cd Termux-Banner
 chmod +x *
-clear
 ./banner.sh
 ```
 
-## 🛠️ Fix Repository Errors
+## 🔧 Repository / Mirror Fix
 
-If you face package download or repository errors, try:
+If package downloads fail or you encounter repository errors, try:
 
 ```bash
 termux-change-repo
 ```
 
-Press **Enter**, select a working mirror if prompted, and retry the installation commands. This may resolve mirror-related issues, but not every error.
+Choose a working mirror in the menu, confirm your selection, then retry the package update.
 
-## ✏️ Customize Your Banner
+## ✏️ Customize Your Name
 
-To change the displayed name or banner text, run:
+Open the banner script:
 
 ```bash
 cd ~/Termux-Banner
 nano banner.sh
 ```
 
-Edit the name and text to your preference.
+Change `MrKarthickR`, `Drak24Evil`, or other banner text to your preferred wording.
 
-**Save your changes:**
-
-1. Press `CTRL + O`
-2. Press `Enter`
-3. Press `CTRL + X`
+**Save the file:** Press `CTRL + O`, then `Enter`, then `CTRL + X`.
 
 Run the banner again:
 
@@ -57,11 +80,26 @@ Run the banner again:
 ./banner.sh
 ```
 
-## 🛡️ Disclaimer
+## 🎯 Project Goals
 
-This project is intended for terminal customization, Bash scripting practice, and responsible cybersecurity learning.
+Learn basic Bash scripting, personalize your terminal, and build a cybersecurity-inspired command-line environment.
 
-**Ethical Hacking Is Not a Crime.**
-**We Hunt Loops, Not Humans.**
+<div align="center">
 
-Created by **MrKarthickR | Drak24Evil** 🔥
+### 🛡️ OUR MOTTO
+
+**ETHICAL HACKING IS NOT A CRIME**
+
+**WE HUNT LOOPS, NOT HUMANS**
+
+<img src="https://img.shields.io/badge/Created%20by-MrKarthickR%20%7C%20Drak24Evil-00FF00?style=for-the-badge&labelColor=000000" alt="Created by Drak24Evil" />
+
+</div>
+
+---
+
+<div align="center">
+
+*💻 Learn • Build • Secure • Repeat 🔥*
+
+</div>
