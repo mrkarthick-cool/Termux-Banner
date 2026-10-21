@@ -93,7 +93,8 @@ Learn basic Bash scripting, personalize your terminal, and build a cybersecurity
 **WE HUNT LOOPS, NOT HUMANS**
 
 
-[![Created by MrKarthickR | Drak24Evil](https://img.shields.io/badge/Created%20by-MrKarthickR%20%7C%20Drak24Evil-00FF00?style=for-the-badge&labelColor=000000)](https://www.credly.com/users/mr-karthick/badges/credit)
+
+[![Credly Profile](https://img.shields.io/badge/CREATED%20BY-MrKarthickR%20%7C%20Drak24Evil-00FF00?style=for-the-badge&logo=credly&logoColor=white&labelColor=000000)](https://www.credly.com/users/mr-karthick/badges/credly)
 
 </div>
 
